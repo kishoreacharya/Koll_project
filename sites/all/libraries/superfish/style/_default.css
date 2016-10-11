@@ -1,0 +1,48 @@
+.sf-menu.sf-style-default {
+  margin: 0;
+  padding: 0;
+}
+
+.sf-menu.sf-style-default.sf-navbar {
+  width: 100%;
+}
+.sf-menu.sf-style-default ul {
+  margin: 0;
+  list-style: none;
+}
+.sf-menu.sf-style-default a {
+  color: #fff;
+  padding: .3em 2.25em .7em 2.25em;
+  vertical-align: text-bottom;
+  line-height: 2.2em;
+  margin-left: 1em;
+}
+.sf-menu.sf-style-default span.sf-description {
+  color: #13a;
+  display: block;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  margin: 5px 0 0 5px;
+  padding: 0;
+}
+.sf-menu.sf-style-default li,
+.sf-menu.sf-style-default.sf-navbar {}
+.sf-menu.sf-style-default li li {
+  padding-top: .5em;
+  background: #333;
+  color: #333;
+}
+  
+.sf-menu.sf-style-default li li li {}
+
+.sf-menu.sf-style-default li:hover,
+.sf-menu.sf-style-default li.sfHover,
+.sf-menu.sf-style-default a:focus,
+.sf-menu.sf-style-default a:hover,{
+  color: #fff;
+  
+}
+  
+}
+.sf-menu.sf-style-default a:active {}
+

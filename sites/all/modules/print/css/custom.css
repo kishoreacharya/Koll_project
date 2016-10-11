@@ -1,0 +1,44 @@
+body {
+	font-size: 90% !important;
+}
+
+/* Accordion
+------------------------------------------------------------------ */
+.ui-accordion .ui-accordion-content {
+    display:block !important;
+}
+.ui-accordion-header {
+	border: 0;
+	background: none;
+	border: 0;
+	background-color: #EEEEE4;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    font-weight: bold;
+}
+.ui-accordion-content {
+	overflow: initial !important;
+	border: 0;
+}
+.ui-accordion-content h2 {
+	float: none !important;
+	font-size: 100%;
+}
+.entityform-type-entityform-type {
+//	display: none;
+}
+
+
+
+
+
+/* Tabeller
+------------------------------------------------------------------ */
+table.views-table th {
+    padding: 6px 9px !important;
+    border-bottom: 1px solid black;
+}
+table.views-table td {
+    padding: 6px 9px !important;
+    border-bottom: 1px solid #ccc;
+}
